@@ -3,7 +3,6 @@
 | | |
 |---|---|
 | **Aluno** | _Fernando de Freitas Guimarães Medeiros_ |
-
 | **Data de entrega** | _(08/11/26)_ |
 
 ## Justificativa da escolha do tema
