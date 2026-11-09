@@ -1,13 +1,13 @@
-# Lista de Tarefas — Projeto Final (Desenvolvimento Android)
+# Lista de Tarefas — Projeto Final (Desenvolvimento Android - iRede)
 
 | | |
 |---|---|
-| **Aluno** | _(preencher)_ |
-| **Matrícula** | _(preencher)_ |
-| **Data de entrega** | _(preencher)_ |
+| **Aluno** | _Fernando de Freitas Guimarães Medeiros_ |
+
+| **Data de entrega** | _(08/11/26)_ |
 
 ## Justificativa da escolha do tema
-_(preencher com suas palavras — sugestão: organização da rotina é uma necessidade real e o tema cobre bem CRUD, navegação e persistência local.)_
+_organização da rotina é uma necessidade real e o tema cobre bem CRUD, navegação e persistência local.)_
 
 ## Descrição do funcionamento
 Aplicativo de lista de tarefas com identidade minimalista (fundo preto, detalhes em azul marinho e branco).
@@ -39,6 +39,10 @@ app/src/main/java/com/example/listadetarefas/
 └── TaskApp.kt
 ```
 
-## Como executar
-1. Abra a pasta no Android Studio (Ladybug ou mais recente) e aguarde o *Gradle Sync*.
-2. Execute em um emulador ou dispositivo com Android 8.0+ (API 26).
+## Badges
+- Kotlin
+- Compose
+- Navigation
+- Room
+- MVVM
+
