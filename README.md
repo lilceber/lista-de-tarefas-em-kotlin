@@ -20,10 +20,11 @@ Aplicativo de lista de tarefas com identidade minimalista (fundo preto, detalhes
 ## Capturas 
 
 <p>
+  <img src="capturas/CriarTarefa.png" width="240"/>
   <img src="capturas/TelaInicial.png" width="240"/>
   <img src="capturas/DetalhesDaTarefa.png" width="240"/>
   <img src="capturas/Calendario.png" width="240"/>
-  <img src="capturas/CriarTarefa.png" width="240"/>
+
 </p>
 
 ## Requisitos técnicos atendidos
