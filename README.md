@@ -17,6 +17,15 @@ Aplicativo de lista de tarefas com identidade minimalista (fundo preto, detalhes
 
 **Tela 3 – Calendário semanal:** mostra a semana (dom–sáb) com navegação entre semanas, indicador de dias com tarefas e a lista de tarefas do dia selecionado.
 
+## Capturas 
+
+<p>
+  <img src="telainicial.png" width="240"/>
+  <img src="detalhes.png" width="240"/>
+  <img src="calendario.png" width="240"/>
+  <img src="calendario.png" width="240"/>
+</p>
+
 ## Requisitos técnicos atendidos
 - Kotlin + Jetpack Compose (3 telas)
 - Navigation Compose (`navigation/AppNavigation.kt`)
